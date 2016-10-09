@@ -1,0 +1,10 @@
+twitter Analysis	
+
+
+twittereventhub :  
+
+Consumer Group   : TwitterGroup  
+managePolicy  : kCJ1/dlT6biTPBx4Tk+kP8Is2BOk98B6t8KDEOtNDsg=
+
+
+connection string : Endpoint=sb://twittereventhubrealtime.servicebus.windows.net/;SharedAccessKeyName=managePolicy;SharedAccessKey=kCJ1/dlT6biTPBx4Tk+kP8Is2BOk98B6t8KDEOtNDsg=;EntityPath=twittereventhub
